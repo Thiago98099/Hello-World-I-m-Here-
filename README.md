@@ -37,6 +37,7 @@ fimalgoritmo
 
 
 algoritmo    "Desafio 2"
+
 Var
 num1, num2 : inteiro
 a, b, c : inteiro
@@ -84,6 +85,7 @@ Fimalgoritmo
 
 
 algoritmo   "Desafio 3"
+
 Var
 sal, hr : real
 salt, liqui : real
